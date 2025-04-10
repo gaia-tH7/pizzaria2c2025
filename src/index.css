@@ -28,8 +28,8 @@ body {
   place-items: start;
   min-width: 320px;
   min-height: 100vh;
-  background-color: aliceblue;
-  color:#ffffff
+  background-color: rgb(53, 117, 173);
+  color:#000000
 }
 
 h1 {
